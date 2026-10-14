@@ -18,13 +18,62 @@ endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/IAM-ZeroTrustRon)
->> /Border [ 0 0 0 ] /Rect [ 56 208.5 217.376 226.5 ] /Subtype /Link /Type /Annot
+/S /URI /Type /Action /URI (https://github.com/IAM-ZeroTrustRon/healthcare-risk-assessment)
+>> /Border [ 0 0 0 ] /Rect [ 51 286.95 173.81 300.95 ] /Subtype /Link /Type /Annot
 >>
 endobj
 5 0 obj
 <<
-/Annots [ 4 0 R ] /Contents 9 0 R /MediaBox [ 0 0 612 792 ] /Parent 8 0 R /Resources <<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/IAM-ZeroTrustRon/Botium-Compliance-Audit)
+>> /Border [ 0 0 0 ] /Rect [ 51 270.95 159.37 284.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/IAM-ZeroTrustRon/CogniScribe-Vendor-Risk-Assessment)
+>> /Border [ 0 0 0 ] /Rect [ 51 254.95 219.95 268.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/IAM-ZeroTrustRon/THM-Vuln-Nikto-Scan)
+>> /Border [ 0 0 0 ] /Rect [ 51 238.95 160.48 252.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/IAM-ZeroTrustRon/MOUD-compliance-SecAudit)
+>> /Border [ 0 0 0 ] /Rect [ 51 222.95 261.06 236.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/IAM-ZeroTrustRon/Clinical-Policy-Review-Suite)
+>> /Border [ 0 0 0 ] /Rect [ 51 206.95 148.23 220.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/IAM-ZeroTrustRon/Big-IMA-Challenge-LAB)
+>> /Border [ 0 0 0 ] /Rect [ 51 190.95 155.49 204.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/A <<
+/S /URI /Type /Action /URI (https://github.com/IAM-ZeroTrustRon/IAM-AWS_CloudQuest-LAB)
+>> /Border [ 0 0 0 ] /Rect [ 51 174.95 263.85 188.95 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Contents 16 0 R /MediaBox [ 0 0 612 792 ] /Parent 15 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >> /Rotate 0 
   /Trans <<
@@ -32,51 +81,58 @@ endobj
 >> /Type /Page
 >>
 endobj
-6 0 obj
+13 0 obj
 <<
-/PageMode /UseNone /Pages 8 0 R /Type /Catalog
+/PageMode /UseNone /Pages 15 0 R /Type /Catalog
 >>
 endobj
-7 0 obj
+14 0 obj
 <<
-/Author (\(anonymous\)) /CreationDate (D:20261007130247-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261007130247-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (\(anonymous\)) /Trapped /False
+/Author (Ronald Richardson) /CreationDate (D:20261014182546-04'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261014182546-04'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+  /Subject (\(unspecified\)) /Title (Ronald Richardson Healthcare Cybersecurity Portfolio) /Trapped /False
 >>
 endobj
-8 0 obj
+15 0 obj
 <<
-/Count 1 /Kids [ 5 0 R ] /Type /Pages
+/Count 1 /Kids [ 12 0 R ] /Type /Pages
 >>
 endobj
-9 0 obj
+16 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1801
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2104
 >>
 stream
-Gat%"9lo&I&A@sBlm^t<A4<:?=e;3)2bcG6\#HK93k^%d80S6E"otKudi[JV+@X[Ll=oUiCkK[oidL/;T`r/opaL!Q2d:V,;aO&JgObUMHqE("kjA*1j&n.M\Q[Gs*m5I;o>P=4?EIn4/hX?V'Ygi<8[9L@Sfpoc`a7'$7bj6V--&``3U6EmD1p$q6-Dm1gtUsQg4#^^pRL\rHp>rf=E;^5<nEi6:e>u@>U;5A]O!7o2DedDnTFLn+mZk(nUR*2aNmJG:eBU[h&\?5]TSi7iBZk6$\^Il^/Wd3[HVK%1/f:pPj^i;V"8eRVd(GbWFeE65LD!m[<67A0@<"+Q`DHP9s<bM9'&4lMair2`q#&<?#IB.gM2"E0NkOof:*)!4enVO[on^3,n[\17.1%>m1CS+[V:s7T'?Dh69^[[G"k`CThJHqVl^VeWe`M=4HN#k>%125YG`M'6[OeOlGN-okJ<"pl_&*I@)3=-,%#B5f:;9-Yd3kR2d9nsWmOO4?H):nL$aS:[>:OMPr=MkP\Ta6Qttd>WK3TnYoo*8!hm,)m&*Z/C6`Y@4]_i-*G=>Wk-V70lEWaR>d^S?eg:s-:Wc8rQ(O$B$SAoZ&Xmqq03'6e[XK!SWpnt#:pU`OQL;gqG#/$W7lh!P3&(7C'#J^t';cF/i=CAE8WDC_RekMP!EO.JmE"V!d3p4(%,eQZLX/(-+%/uu"W/P+i*>Mi:>idl-s(bQ>aUfWFOa<HQcE?6kB4[7%8,,HKm5WkTQ1#;*,odk,-tPta-u0j,-$"hP,9nalYf^?ZFp1:I,>96J`tZO*nD?.</lbX\"HP6FOLTrS,AI.-D#V%;.$R5R6IY%\l(B]DsRmZATn"[IRGD1[pTeCPhq"%W(ed,V`-NtXp-t^B%WKsi2lG\Pp;JlMUqe='fZP59Q=i6jeHoY;q&UDEo9K1F%8=5d^m3A1rW&pTBt3_[`P;`&=jJTL0\F1j[>sT$uqHW.Iu]tP5oF]Q.n`_7=DCmEnrg[2nel)UGoFoq_mcI$(Q.^F+:NEIK/%D5LNkL(E$CE:6._(p>#a<B]tWl.@dLHJAMJQNu'?4RrPARSuRtT>FEamfb:EUiaPMf6)*CVluXk)#+)r*ql!F]KI?<DTSiOB,Zlh1/C=Z@(>p>sJ2nsF.'.QKnGsH=kd[oI6?%O`[2Kkd3G'[nhh#L5WA7O:ASaH!!9[b]!uRF8-rFh;mW)u<^2KXm?/2R/6@$d'Y2o</OPcg9aTF[kF_X^5SW:Bo:sh#L`F>F7l#ML"YidpQRn.SbPEpheiN[N#)p)UA1'HAo\Z\``LI-Phd,dhY\VfePFA#`S][<0$[u9m!o8W-HOaOQBCi-/eMi6T3a;VjC??tFnj2a"Rs2c2"#2KeE#q-d,"oR:&mi=2ue5Bb%#*FI"+o@&@42L(ib$bQ`fkFf5W^=`i48%WmU6m=WDB'3e@5h@%f*RJT+O;2Y%LN@aR]a2,*-:iM@/_kMmCj`^Mm-j>0cM#MY]nOp:@f$glWj(bC<E4bp5*27M6h9(qD]l/5k)VB(/f5STA>B5"oZNf#^;`87dT=1X4#3+mGW<bp*@KZ,*XuU'F`NTH_Rc>UiJCr+l9^G:n_[m?s,_M#B-+<ie-fHS&NKVF?KJS3M?6%d-6p*VRL?$/k.fTou=V!>KdPf]=EtiEYc^[Pb>iGKSpOn"cg3u7%d#K*4>CkqG+E$/Dgdq_[U<FPGL6I$pDEDgr6cB@,e6bA_6PjDSG1=09YWYhceK>F[bn%]#$T.IokqK1j%Cj.(mPC0E+qrDI)GC_\]e13r9^i3t/t~>endstream
+Gatm<9lJcU&A@sBbc,OhR1ZE:oOP":C*7C->AZ%,/BO0enWM)^P#>9Oa7miA,&&D?&AU#044N\G]Qs*\R#o>_$N9]E-bA!XRpSMi,MHr_S-DpG]Vi6.MpE2JHZBnM,+@IESd"094BfrWLrPWY']J4i)MUnj]*fG_457!&_eql)[i<TFlK,].KMLc<-(2!:1W>E^q*^^Ef\]2H4nUh,Zp(8('`SXiX8."FUgQ7(T>aGUO\4h9R<b.68YN19&Q[?V(ea1*;Hm-Al%?7kenAX?`@tYR9akBUC@(]o?At%"hjM0bKd[Qo6LO9(I\=*j9<It$rC=>r/1Q\E#J*YCkoAN96L86Ca601dXhnK!@MDRMj4/0HQ_mO(6!ArXWl&Nj9KZ4:@,\B%4&U>jKb@;u18u8T7uBb+\?i%b;Gm\;1)#"GXO*2WF@kDC7&rX#Ga8U_.IRnBK>Ip3WN7M<Wg"r?V!;@&bk_Ym_[6Qh93[V0Nc:c#VF!,>fTDBSb[/01f%=5PPD;hG8WQc8c'c#_<dq3:omsWu@qc*?ENHZG<@4]0VSr.,C=oq1J`@&MP9K6t##D3LA\iL-5U=*8Rj]Z?Lpeel0KMaP3\HPKYfaIQkF.OUnBG5^Ah@Is]d9#5"7b8Q;P"6M,K$.(2#(>DKs!ijnI'ih,[r:p9;r)pJaepNVfmb\&=uaaTb=;CcFmjlM=%a^Whi7;F/I*1;"L5DfZN`l9^7c@FOl\>&')(V"`pu4+pT(*isBsu!\i\r]H)j]e.l+u2fA<aH9MSs=?N-B625jZ%]A>pqBCpVMBkRJ9*:V"HUNrU+p@ioM)`>2;Xj/9*gP:tJO.PL$lk/i4F<(DM*h0!S(0giI<32L#,CC/fk!3PI#4;EI7h)$DG6nl*7YZ^_oQu&XO42M@9ZU_M:2@hRFi0eD,AZ9`2ZoL!p]]SBYg"uqNgiJVm67i;1p;CqIS!dBSt<K*3?J6p9:`C+g$Qcjou^!g3%d=!#%G.pV+QAp-Iir;5n:kYA&IGC.<-gDVW!HX`W[<hHb'Vh#6d+06E<G<=F^Tks:,\7NE%n!^@QZXYi*>89@/GGsltD!GE]9<VWZ\Uk/p#GIiuaHSmA0Q:0!<\^NRc&\?c[b'C_<&pb53=uQ0%^EtRIZeIbUO:-">28C1eX0e&[5n3U_jbSZ4THb)5bI4])MJbf?;s7Lhm+_-Mb#If*2J#N,o*H-L[4"mi@TGK[P\XfOGad.i'$>hqE[9t7+FeoD,tGNOgZ5&LpeWKE.45lcRD1=`-/VdO"DTsHNeb4,XB@/Yb(bn1fDnR@Fra(6a/S]'Ni0Sl>ncu*h[bOqe1#gIEKL\oD-Y[P]AbhM%SQ$mfTb^%m4K+)EEJe">dB8,[A2KgCKb@;CK^!L]t_;G40u"ujGD;E;d1r\0fa"F&=hYR\=RYq4`;Y9&AId+pMs*`g+i2gq;Khi6"Q3X!9]&U&hS_!qh/rL$g',-il:=1LhM2Q@7I`mH<Rdi%/F&.q;8k$S0h./I0k^;!>_sBq9h_V7`4r9\kn5c1QYTI=!r:>V'8pRA@6Fq]@n`!@"n_>,*+k=ekO#1M83tA0#u)ADu6g4M+#asYblHl`KSWF+kRjE'6=-qc*fYej"UrM;mEP:#(N87K@Y=Q64I/DD]D'@##^a*g"8SU!.kko*CrR-n6)>:V9qFtXb#P6MaKbE9>qX?"!e<WeSd":(+dgaM+K"7L^?I9S&1M4htFck.N)'VEZXIbZd,)Z5]D=/-T3pX[cT"loFXr]=t)sM:QDWu_0A##VBF6:0"KPUERHPn(.4L7GJD/)Utb2s^FG3?1?#X7OUT,'L`[?n3FnkY6HTuKE2&?k*\tXF:ouga(jj"AC%5bT%Vc8Pe/IX$$R1lYR@\>pnYBrumsU+>nk/Ep[Ihr2e3N307a#N7FYsY1F+-Q6_V'Nm=YuVNcFh2VRocoYmkN-hPdB60b?+5Jm^<lq!jQ;fg<Jc]pK@,<hRi/e\?5NC#!:8d5UQ)($089;X4(J+T6237?O);$rkQdoNV7banY#B?FZ,o_lVOlk0Zn"DY[1,OG!ice*BnpnPb3*2GU4hK9jutL<Fp%B^D1uGQ5HA+,PrMD=Zgfr5>Y3Y56~>endstream
 endobj
 xref
-0 10
+0 17
 0000000000 65535 f 
 0000000061 00000 n 
 0000000102 00000 n 
 0000000209 00000 n 
 0000000321 00000 n 
-0000000495 00000 n 
-0000000706 00000 n 
-0000000774 00000 n 
-0000001054 00000 n 
-0000001113 00000 n 
+0000000523 00000 n 
+0000000722 00000 n 
+0000000932 00000 n 
+0000001127 00000 n 
+0000001327 00000 n 
+0000001531 00000 n 
+0000001729 00000 n 
+0000001928 00000 n 
+0000002186 00000 n 
+0000002256 00000 n 
+0000002580 00000 n 
+0000002641 00000 n 
 trailer
 <<
 /ID 
-[<7f57c3e46526c7879167e313cc4df4a4><7f57c3e46526c7879167e313cc4df4a4>]
+[<a847e0195ee05cefccb2d1e3db641be8><a847e0195ee05cefccb2d1e3db641be8>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 7 0 R
-/Root 6 0 R
-/Size 10
+/Info 14 0 R
+/Root 13 0 R
+/Size 17
 >>
 startxref
-3005
+4837
 %%EOF
