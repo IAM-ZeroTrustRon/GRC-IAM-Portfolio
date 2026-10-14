@@ -22,3 +22,12 @@ Together, these projects demonstrate how I translate technical concerns into cle
 - [Clinical policy reviews](https://github.com/IAM-ZeroTrustRon/Clinical-Policy-Review-Suite)
 
 [One-page portfolio overview (PDF)](Portfolio-Overview.pdf) · [Markdown version](Portfolio-Overview.md)
+
+## Cloud IAM labs
+
+| Project | What it demonstrates | Evidence and scope |
+|---|---|---|
+| [Wiz Big IAM Challenge — AWS IAM Risk Assessment](https://github.com/IAM-ZeroTrustRon/Big-IAM-Challenge-Access-Review) | Resource-policy analysis, queue and notification access, Cognito guest permissions, federated role trust, and proposed risk treatment | Six-challenge completion artifact and selected tests; Challenge 4 technical handoff pending. Authorized CTF, not a production healthcare audit. |
+| [AWS IAM Cloud Core Concepts — Cloud Quest](https://github.com/IAM-ZeroTrustRon/IAM-AWS_CloudQuest-LAB) | SupportEngineers group, EC2/RDS read-only policies, user membership, and documented denied modification | Existing lab write-up and evidence. AWS managed policies meet the lab objective; production least privilege requires a job-specific access review. |
+
+The Cloud Quest project focuses on configuring and checking access controls. The Wiz project examines misconfigurations and translates observed access into business recommendations. They remain separate projects.
