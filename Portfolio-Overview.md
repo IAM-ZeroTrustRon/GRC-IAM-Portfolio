@@ -14,7 +14,7 @@ Together, these projects demonstrate how I translate technical concerns into cle
 
 ## Selected projects
 
-- [Healthcare risk assessment](https://github.com/IAM-ZeroTrustRon/healthcare-risk-assessment)
+- [Healthcare risk assessment](https://github.com/IAM-ZeroTrustRon/Northgate-risk-assessment)
 - [Controls audit — Botium](https://github.com/IAM-ZeroTrustRon/Botium-Compliance-Audit)
 - [AI vendor assessment — CogniScribe](https://github.com/IAM-ZeroTrustRon/CogniScribe-Vendor-Risk-Assessment)
 - [Vulnerability remediation](https://github.com/IAM-ZeroTrustRon/THM-Vuln-Nikto-Scan)
