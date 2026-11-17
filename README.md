@@ -36,4 +36,6 @@ Each repository has one distinct role. Application source, its assessment, and i
 
 The README in each repository is the entry point for its evidence and limitations. Historical audit counts, simulated results and proposed treatments remain labeled as such.
 
+**MAT/MOUD prototype briefs.** [Executive brief for clinic leadership and prospective pilot partners](MOUD-Customer-Executive-Brief.pdf) — the credential-expiration problem, six capabilities in plain language, current limitations, and the five gates before real patient data. [Engineering and application-security capability brief](MOUD-Security-Engineering-Capability-Brief.pdf) — architecture, design decisions, the multi-factor authentication case study, and the evidence record. Both run three pages, and neither claims production readiness or regulatory certification.
+
 [One-page portfolio overview (PDF)](Portfolio-Overview.pdf) · [Markdown overview](Portfolio-Overview.md). These supporting overviews are snapshots; this directory is the current navigation source.
